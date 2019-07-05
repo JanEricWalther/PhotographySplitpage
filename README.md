@@ -2,6 +2,6 @@
 
 [Link](https://janericwalther.github.io/PhotographySplitpage)
 ---
-+ Test1
-+ lorem
-    + ipsum
+* Test1
+* lorem
+    * ipsum
